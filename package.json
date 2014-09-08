@@ -1,0 +1,22 @@
+{
+  "name": "eee",
+  "version": "0.1.0",
+  "description": "This is strwind's npm demo!",
+  "main": "a.js",
+  "scripts": {
+    "test": "eee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/strwind/eee"
+  },
+  "bin": {
+    "eee": "./bin/start"
+  },
+  "author": "strwind",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/strwind/eee/issues"
+  },
+  "homepage": "https://github.com/strwind/eee"
+}
