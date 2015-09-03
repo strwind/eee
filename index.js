@@ -4,4 +4,4 @@ function hello ( name ) {
 }
 
 exports.hello = hello;
-//测试二
+//测试1.0.1
