@@ -4,4 +4,4 @@ function hello ( name ) {
 }
 
 exports.hello = hello;
-//去掉测试一
+//测试二
